@@ -12,8 +12,8 @@ The input labyrinth has to be in the following format:
 Some examples:
 
 Input:\
-4\
-5
+4 (size of labyrinth X)\
+5 (size of labyrinth Y)
 
 S--*\
 -*--\
